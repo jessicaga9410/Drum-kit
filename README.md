@@ -1,10 +1,11 @@
-# Drum-Kit
+# Drum-kit
 -------
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 
 ## Table of Contents
 ---------
 - [User story](#user-story)
+- [Technologies Used](#technologies-used)
 - [License](#license)
 - [Questions](#questions)
 
@@ -16,7 +17,11 @@
 
 This application is covered by the MIT license. 
 
----------------------------------------------------------------
+----------------------------------------------------------------
+
+## Technologies Used
+------
+``Select open live browser in index.html``
 
 
 
