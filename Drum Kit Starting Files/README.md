@@ -21,7 +21,7 @@ This application is covered by the MIT license.
 
 ## Technologies Used
 ------
-``node index.js ``
+``Select open live browser in index.html``
 
 
 
