@@ -5,7 +5,6 @@
 ## Table of Contents
 ---------
 - [User story](#user-story)
-- [Technologies Used](#technologies-used)
 - [License](#license)
 - [Questions](#questions)
 
@@ -17,11 +16,7 @@
 
 This application is covered by the MIT license. 
 
-----------------------------------------------------------------
-
-## Technologies Used
-------
-``node index.js ``
+---------------------------------------------------------------
 
 
 

@@ -1,4 +1,4 @@
-# Fitness-tracker
+# Drum-kit
 -------
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 
